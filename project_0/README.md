@@ -38,11 +38,12 @@
 :arrow_up:[к оглавлению] (https://github.com/AlinaMIPT/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Результаты
-...
+Написали программу, которая в среднем за 5 попыток угадывает число
 
 :arrow_up:[к оглавлению] (https://github.com/AlinaMIPT/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Выводы:
-...
+
+Использование бинарного поиска позволяет за минимальное возможное число попыток угадать число от 1 до 100 
 
 :arrow_up:[к оглавлению] (https://github.com/AlinaMIPT/sf_data_science/blob/main/project_0/README.md#Оглавление)
